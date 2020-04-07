@@ -1,0 +1,16 @@
+@media (max-width: 64em) {
+    .locationList {
+        height: 30vh;
+        overflow: auto;
+    }
+}
+
+.locationList {
+    overflow: auto;
+}
+
+.forecast-title {
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
